@@ -1,5 +1,3 @@
-Below is a polished, professional **GitHub README** for your repository, based solely on the available repo information (one `index.html` file, HTML-only project). If you'd like it tailored further (screenshots, more technical explanation, setup instructions, deployment steps, architecture diagram), just tell me.
-
 ***
 
 # ✅ **Token Generator**
